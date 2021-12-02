@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # See the demo
 
-http://www.mydemoproject.net/
+http://www.mydemoproject.net/  (It is not working now.)
 
 ## Development server
 
